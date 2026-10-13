@@ -39,7 +39,7 @@ todo-list-wednesday/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/orvexaaa/to-do-list-wednesday
+git clone https://github.com/orvexaaa/todo-app
 ```
 
 ### 2. Open the Project
